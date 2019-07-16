@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
  * Servlet implementation class NovaEmpresaSerlet
  */
 @WebServlet("/novaEmpresa")
-public class NovaEmpresaSerlet extends HttpServlet {
+public class NovaEmpresaServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
