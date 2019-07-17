@@ -1,5 +1,5 @@
-# Java Servlet Parte 1
+# Java Servlet Parte 2
 
-## Fundamentos da programação web Java
+## Autenticação, autorização e o padrão MVC
 
-Repositório do curso de Java Servlet parte 1, oferecido pela Alura.
+Repositório do curso de Java Servlet parte 2, oferecido pela Alura.
